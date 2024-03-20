@@ -8,7 +8,7 @@ function preload(){
  }
 
  function draw() {
-  if (mouseIsPressed ===true){
+  if (mouseIsPressed === true){
     background( myImage);
   } else if (mouseIsPressed === false){
     background (150);
